@@ -1,1 +1,2 @@
-moro
+Hei tervetuloa Digitin koodikerhoon.
+Tänään koodastellaan Gittiä
