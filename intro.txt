@@ -1,2 +1,4 @@
 Hei tervetuloa Digitin koodikerhoon.
 Tänään koodastellaan Gittiä
+
+Tämä on uusi lisäys
